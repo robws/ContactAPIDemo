@@ -34,5 +34,5 @@ The solution was designed but only about 20% implemented.
 The approach is as follows:
 
 <table><tr><td>
- ![here](images/overview.png)
+ <img src="/images/overview.png"/>
 </td></tr></table>
