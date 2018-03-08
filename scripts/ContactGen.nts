@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Data>Scripts	folder\folder scripts32x.png	c:\clients\[+clientidentifier+]\scripts\
+Admin	folder\folder scripts32x.png	c:\clients\[+clientidentifier+]\scripts\</Data>
+  <Pattern>[Item $rowNum]
+Text=$0
+Icon=$1
+Action=$2</Pattern>
+  <RowDelimiter>\n</RowDelimiter>
+  <ColumnDelimiter>\t</ColumnDelimiter>
+</Session>
