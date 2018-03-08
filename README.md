@@ -33,6 +33,6 @@ The solution was designed but only about 20% implemented.
 
 The approach is as follows:
 
-<kbd>
+<table><tr><td>
  ![here](images/overview.png)
-</kbd>
+</td></tr></table>
