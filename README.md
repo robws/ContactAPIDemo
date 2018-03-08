@@ -33,4 +33,4 @@ The solution was designed but only about 20% implemented.
 
 The approach is as follows:
 
-<kbd><img src='images/overview.png'></kbd>
+<kbd><img src='~/images/overview.png'></kbd>
