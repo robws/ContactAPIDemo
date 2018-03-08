@@ -13,9 +13,9 @@ The major components of this proposed solution are as follows:
 3. A unit test that uses the ```iContactRepository``` interface, a setup routine that populates contacts in a collection, and then tests the ```ContactsController``` endpoint methods.
 
 
-##Overview
+## Overview
 
-![Img](images/overview.png)
+![Img](images/overview.png "Overview")
 
 
 ## Specific Notes on Requirements
