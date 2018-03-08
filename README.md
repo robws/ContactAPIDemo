@@ -15,7 +15,7 @@ The major components of this proposed solution are as follows:
 
 |Overview
 |---|---|
-||![Img](/images/overview.png)|
+||![Img](images/overview.png)|
 
 
 ## Specific Notes on Requirements
